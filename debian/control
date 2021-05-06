@@ -1,0 +1,119 @@
+Source: osso-profiles-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-profiles-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-profiles-l10n-mr
+Depends: osso-profiles-l10n-ruru, osso-profiles-l10n-frfr, osso-profiles-l10n-frca, osso-profiles-l10n-dadk, osso-profiles-l10n-itit, osso-profiles-l10n-svse, osso-profiles-l10n-nono, osso-profiles-l10n-fifi, osso-profiles-l10n-nlnl, osso-profiles-l10n-enus, osso-profiles-l10n-dede, osso-profiles-l10n-esmx, osso-profiles-l10n-eses, osso-profiles-l10n-cscz, osso-profiles-l10n-ptpt, osso-profiles-l10n-engb, osso-profiles-l10n-plpl
+Description: osso-profiles marketing release package
+ This is a metapackage for osso-profiles to pull all the l10n packages.
+ Application developers of osso-profiles should depend on
+ "osso-profiles-l10n-mr0 | osso-profiles-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-profiles-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (cs_CZ)
+ Language files for cs_CZ osso-profiles.
+
+Package: osso-profiles-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (da_DK)
+ Language files for da_DK osso-profiles.
+
+Package: osso-profiles-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (de_DE)
+ Language files for de_DE osso-profiles.
+
+Package: osso-profiles-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (en_GB)
+ Language files for en_GB osso-profiles.
+
+Package: osso-profiles-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (en_US)
+ Language files for en_US osso-profiles.
+
+Package: osso-profiles-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (es_ES)
+ Language files for es_ES osso-profiles.
+
+Package: osso-profiles-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (es_MX)
+ Language files for es_MX osso-profiles.
+
+Package: osso-profiles-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (fi_FI)
+ Language files for fi_FI osso-profiles.
+
+Package: osso-profiles-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (fr_CA)
+ Language files for fr_CA osso-profiles.
+
+Package: osso-profiles-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (fr_FR)
+ Language files for fr_FR osso-profiles.
+
+Package: osso-profiles-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (it_IT)
+ Language files for it_IT osso-profiles.
+
+Package: osso-profiles-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (nl_NL)
+ Language files for nl_NL osso-profiles.
+
+Package: osso-profiles-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (no_NO)
+ Language files for no_NO osso-profiles.
+
+Package: osso-profiles-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (pl_PL)
+ Language files for pl_PL osso-profiles.
+
+Package: osso-profiles-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (pt_PT)
+ Language files for pt_PT osso-profiles.
+
+Package: osso-profiles-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (ru_RU)
+ Language files for ru_RU osso-profiles.
+
+Package: osso-profiles-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-profiles (sv_SE)
+ Language files for sv_SE osso-profiles.

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-profiles 20090403163553\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.03 16:35+0300\n"
+"PO-Revision-Date: 2009.04.03 16:35+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "profi_bd_general"
+msgstr "Général"
+
+msgid "profi_bd_silent"
+msgstr "Silencieux"
+
+msgid "profi_fi_email_alert_tone"
+msgstr "Alerte courriel"
+
+msgid "profi_fi_general_vibrate"
+msgstr "Vibration"
+
+msgid "profi_fi_heading_general"
+msgstr "Général"
+
+msgid "profi_fi_heading_silent"
+msgstr "Silencieux"
+
+msgid "profi_fi_instant_messaging_alert_tone"
+msgstr "Alerte discussion"
+
+msgid "profi_fi_key_sounds"
+msgstr "Sons des touches"
+
+msgid "profi_fi_ringingtone_tone"
+msgstr "Sonnerie"
+
+msgid "profi_fi_select_general_vibrate"
+msgstr "Vibration"
+
+msgid "profi_fi_select_silent_vibrate"
+msgstr "Vibration"
+
+msgid "profi_fi_silent_vibrate"
+msgstr "Vibration"
+
+msgid "profi_fi_system_sounds"
+msgstr "Sons du système"
+
+msgid "profi_fi_text_message_tone"
+msgstr "Alerte SMS"
+
+msgid "profi_fi_touch_screen_sounds"
+msgstr "Sons écran tactile"
+
+msgid "profi_ib_unsupported_file_format"
+msgstr ""
+"Format de fichier non pris en charge ou fichier endommagé. Réessayer avec un "
+"autre fichier."
+
+msgid "profi_ti_cpa_profiles"
+msgstr "Profils"
+
+msgid "profi_ti_email_alert_tone"
+msgstr "Alerte courriel"
+
+msgid "profi_ti_instant_messaging_tone"
+msgstr "Alerte discussion"
+
+msgid "profi_ti_menu_plugin"
+msgstr "Profil"
+
+msgid "profi_ti_open_sound_clip"
+msgstr "Ajouter tonalité"
+
+msgid "profi_ti_ringing_tone"
+msgstr "Sonnerie"
+
+msgid "profi_ti_select_profiles"
+msgstr "Sélectionner profil"
+
+msgid "profi_ti_sub_text_message_tone"
+msgstr "Alerte SMS"
+
+msgid "profi_va_key_sounds_level1"
+msgstr "Niveau 1"
+
+msgid "profi_va_key_sounds_level2"
+msgstr "Niveau 2"
+
+msgid "profi_va_key_sounds_off"
+msgstr "Désactivés"
+
+msgid "profi_va_plugin_general"
+msgstr "Général"
+
+msgid "profi_va_plugin_silent"
+msgstr "Silencieux"
+
+msgid "profi_va_select_object_no_sound_clips"
+msgstr "(aucun fichier)"
+
+msgid "profi_va_system_sounds_level1"
+msgstr "Niveau 1"
+
+msgid "profi_va_system_sounds_level2"
+msgstr "Niveau 2"
+
+msgid "profi_va_system_sounds_off"
+msgstr "Désactivés"
+
+msgid "profi_va_touchscreen_sounds_level1"
+msgstr "Niveau 1"
+
+msgid "profi_va_touchscreen_sounds_level2"
+msgstr "Niveau 2"
+
+msgid "profi_va_touchscreen_sounds_off"
+msgstr "Désactivés"

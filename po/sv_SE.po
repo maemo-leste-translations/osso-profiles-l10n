@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-profiles 20090403163553\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.04.03 16:35+0300\n"
+"PO-Revision-Date: 2009.04.03 16:35+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "profi_bd_general"
+msgstr "Allmänt"
+
+msgid "profi_bd_silent"
+msgstr "Ljudlös"
+
+msgid "profi_fi_email_alert_tone"
+msgstr "E-postsignal"
+
+msgid "profi_fi_general_vibrate"
+msgstr "Vibrera"
+
+msgid "profi_fi_heading_general"
+msgstr "Allmänt"
+
+msgid "profi_fi_heading_silent"
+msgstr "Ljudlös"
+
+msgid "profi_fi_instant_messaging_alert_tone"
+msgstr "Snabbmeddelandesignal"
+
+msgid "profi_fi_key_sounds"
+msgstr "Knappljud"
+
+msgid "profi_fi_ringingtone_tone"
+msgstr "Ringsignal"
+
+msgid "profi_fi_select_general_vibrate"
+msgstr "Vibrera"
+
+msgid "profi_fi_select_silent_vibrate"
+msgstr "Vibrera"
+
+msgid "profi_fi_silent_vibrate"
+msgstr "Vibrera"
+
+msgid "profi_fi_system_sounds"
+msgstr "Systemljud"
+
+msgid "profi_fi_text_message_tone"
+msgstr "SMS-signal"
+
+msgid "profi_fi_touch_screen_sounds"
+msgstr "Pekskärmsljud"
+
+msgid "profi_ib_unsupported_file_format"
+msgstr ""
+"Filformatet stöds inte eller filen är skadad. Försök igen med en annan fil."
+
+msgid "profi_ti_cpa_profiles"
+msgstr "Profiler"
+
+msgid "profi_ti_email_alert_tone"
+msgstr "E-postsignal"
+
+msgid "profi_ti_instant_messaging_tone"
+msgstr "Snabbmeddelandesignal"
+
+msgid "profi_ti_menu_plugin"
+msgstr "Profil"
+
+msgid "profi_ti_open_sound_clip"
+msgstr "Lägg till signal"
+
+msgid "profi_ti_ringing_tone"
+msgstr "Ringsignal"
+
+msgid "profi_ti_select_profiles"
+msgstr "Välj profil"
+
+msgid "profi_ti_sub_text_message_tone"
+msgstr "SMS-signal"
+
+msgid "profi_va_key_sounds_level1"
+msgstr "Nivå 1"
+
+msgid "profi_va_key_sounds_level2"
+msgstr "Nivå 2"
+
+msgid "profi_va_key_sounds_off"
+msgstr "Av"
+
+msgid "profi_va_plugin_general"
+msgstr "Allmänt"
+
+msgid "profi_va_plugin_silent"
+msgstr "Ljudlös"
+
+msgid "profi_va_select_object_no_sound_clips"
+msgstr "(inga filer)"
+
+msgid "profi_va_system_sounds_level1"
+msgstr "Nivå 1"
+
+msgid "profi_va_system_sounds_level2"
+msgstr "Nivå 2"
+
+msgid "profi_va_system_sounds_off"
+msgstr "Av"
+
+msgid "profi_va_touchscreen_sounds_level1"
+msgstr "Nivå 1"
+
+msgid "profi_va_touchscreen_sounds_level2"
+msgstr "Nivå 2"
+
+msgid "profi_va_touchscreen_sounds_off"
+msgstr "Av"
