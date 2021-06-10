@@ -1,0 +1,123 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.04.03 16:35+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: my\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "profi_bd_general"
+msgstr "General"
+
+msgid "profi_bd_silent"
+msgstr "Silent"
+
+msgid "profi_fi_email_alert_tone"
+msgstr "E-mail alert"
+
+msgid "profi_fi_general_vibrate"
+msgstr "Vibrate"
+
+msgid "profi_fi_heading_general"
+msgstr "General"
+
+msgid "profi_fi_heading_silent"
+msgstr "Silent"
+
+msgid "profi_fi_instant_messaging_alert_tone"
+msgstr "IM tone"
+
+msgid "profi_fi_key_sounds"
+msgstr "Key sounds"
+
+msgid "profi_fi_ringingtone_tone"
+msgstr "Ringing tone"
+
+msgid "profi_fi_select_general_vibrate"
+msgstr "Vibrate"
+
+msgid "profi_fi_select_silent_vibrate"
+msgstr "Vibrate"
+
+msgid "profi_fi_silent_vibrate"
+msgstr "Vibrate"
+
+msgid "profi_fi_system_sounds"
+msgstr "System sounds"
+
+msgid "profi_fi_text_message_tone"
+msgstr "SMS alert"
+
+msgid "profi_fi_touch_screen_sounds"
+msgstr "Touch screen sounds"
+
+msgid "profi_ib_unsupported_file_format"
+msgstr "Unsupported file format or corrupted file. Try again with another file."
+
+msgid "profi_ti_cpa_profiles"
+msgstr "Profiles"
+
+msgid "profi_ti_email_alert_tone"
+msgstr "E-mail alert"
+
+msgid "profi_ti_instant_messaging_tone"
+msgstr "IM alert"
+
+msgid "profi_ti_menu_plugin"
+msgstr "Profile"
+
+msgid "profi_ti_open_sound_clip"
+msgstr "Add tone"
+
+msgid "profi_ti_ringing_tone"
+msgstr "Ringing tone"
+
+msgid "profi_ti_select_profiles"
+msgstr "Select profile"
+
+msgid "profi_ti_sub_text_message_tone"
+msgstr "SMS alert"
+
+msgid "profi_va_key_sounds_level1"
+msgstr "Level 1"
+
+msgid "profi_va_key_sounds_level2"
+msgstr "Level 2"
+
+msgid "profi_va_key_sounds_off"
+msgstr "Off"
+
+msgid "profi_va_plugin_general"
+msgstr "General"
+
+msgid "profi_va_plugin_silent"
+msgstr "Silent"
+
+msgid "profi_va_select_object_no_sound_clips"
+msgstr "(no files)"
+
+msgid "profi_va_system_sounds_level1"
+msgstr "Level 1"
+
+msgid "profi_va_system_sounds_level2"
+msgstr "Level 2"
+
+msgid "profi_va_system_sounds_off"
+msgstr "Off"
+
+msgid "profi_va_touchscreen_sounds_level1"
+msgstr "Level 1"
+
+msgid "profi_va_touchscreen_sounds_level2"
+msgstr "Level 2"
+
+msgid "profi_va_touchscreen_sounds_off"
+msgstr "Off"
