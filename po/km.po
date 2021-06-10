@@ -1,0 +1,123 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.04.03 16:35+0300\n"
+"PO-Revision-Date: 2012-05-30 14:43+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "profi_bd_general"
+msgstr "ធម្មតា"
+
+msgid "profi_bd_silent"
+msgstr "ស្ងាត់ស្ងៀម"
+
+msgid "profi_fi_email_alert_tone"
+msgstr "សញ្ញា E-mail"
+
+msgid "profi_fi_general_vibrate"
+msgstr "ធ្វើអោយញ័រ"
+
+msgid "profi_fi_heading_general"
+msgstr "ធម្មតា"
+
+msgid "profi_fi_heading_silent"
+msgstr "ស្ងាត់ស្ងៀម"
+
+msgid "profi_fi_instant_messaging_alert_tone"
+msgstr "សូសំលេង IM"
+
+msgid "profi_fi_key_sounds"
+msgstr "សំលេងគ្រាប់ចុច"
+
+msgid "profi_fi_ringingtone_tone"
+msgstr "ភ្លេងរោទ៍"
+
+msgid "profi_fi_select_general_vibrate"
+msgstr "ញ័រ"
+
+msgid "profi_fi_select_silent_vibrate"
+msgstr "ញ័រ"
+
+msgid "profi_fi_silent_vibrate"
+msgstr "ញ័រ"
+
+msgid "profi_fi_system_sounds"
+msgstr "សំលេងប្រព័ន្ធ"
+
+msgid "profi_fi_text_message_tone"
+msgstr "សញ្ញា សារខ្លី (SMS)"
+
+msgid "profi_fi_touch_screen_sounds"
+msgstr "សំលេងប៉ះអេក្រង់"
+
+msgid "profi_ib_unsupported_file_format"
+msgstr "ប្រភេទឯកសារនៃបទភ្លេងមិនទទួលស្គាល់ ឬបានខូច។ សាកល្បងម្តងទៀតជាមួយនឹងភ្លេងដ៏ទៃ។"
+
+msgid "profi_ti_cpa_profiles"
+msgstr "ទម្រង់"
+
+msgid "profi_ti_email_alert_tone"
+msgstr "សញ្ញា E-mail "
+
+msgid "profi_ti_instant_messaging_tone"
+msgstr "សញ្ញា IM "
+
+msgid "profi_ti_menu_plugin"
+msgstr "ទម្រង់"
+
+msgid "profi_ti_open_sound_clip"
+msgstr "បន្ថែមសូរសំលេង"
+
+msgid "profi_ti_ringing_tone"
+msgstr "ភ្លេងរោទ៍"
+
+msgid "profi_ti_select_profiles"
+msgstr "ជ្រើសរើសទម្រង់"
+
+msgid "profi_ti_sub_text_message_tone"
+msgstr "សញ្ញា សារខ្លី (SMS)"
+
+msgid "profi_va_key_sounds_level1"
+msgstr "កំរិត 1"
+
+msgid "profi_va_key_sounds_level2"
+msgstr "កំរិត 2"
+
+msgid "profi_va_key_sounds_off"
+msgstr "បិទ"
+
+msgid "profi_va_plugin_general"
+msgstr "ធម្មតា"
+
+msgid "profi_va_plugin_silent"
+msgstr "ស្ងាត់ស្ងៀម"
+
+msgid "profi_va_select_object_no_sound_clips"
+msgstr "(គ្មានភ្លេង)"
+
+msgid "profi_va_system_sounds_level1"
+msgstr "កំរិត 1"
+
+msgid "profi_va_system_sounds_level2"
+msgstr "កំរិត 2"
+
+msgid "profi_va_system_sounds_off"
+msgstr "បិទ"
+
+msgid "profi_va_touchscreen_sounds_level1"
+msgstr "កំរិត 1"
+
+msgid "profi_va_touchscreen_sounds_level2"
+msgstr "កំរិត 2"
+
+msgid "profi_va_touchscreen_sounds_off"
+msgstr "បិទ"
